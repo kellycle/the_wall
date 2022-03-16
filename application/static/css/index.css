@@ -1,0 +1,29 @@
+/* body{
+    font-family: sans-serif;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+button{
+    margin-left: 90px;
+    margin-top: 30px;
+}
+.errors{
+    color: red;
+    width: 250px;
+    font-size: 14px;
+    margin-top: 100px;
+} */
+
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.form{
+    width: 40%;
+}
+.errors{
+    margin-top: 30px;
+    color: red;
+}
